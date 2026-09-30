@@ -1,1 +1,1 @@
-{"app_version": "2.40.151", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.151.zip", "schema_version": 6, "notes": "Рух поголівʼя: рівні підрядків у шапці таблиці, нуль у таблиці не пишеться.", "created": "2026-09-30"}
+{"app_version": "2.40.152", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.152.zip", "schema_version": 6, "notes": "Рух поголівʼя: рівні підрядків у шапці таблиці, нуль не пишеться, рік у рамці.", "created": "2026-09-30"}
