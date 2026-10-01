@@ -1,1 +1,1 @@
-{"app_version": "2.40.182", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.182.zip", "schema_version": 6, "notes": "Вакцинація: прострочка рахується лише після дати «діє з» схеми; слово vacc_late — прострочені у списках.", "created": "2026-10-01"}
+{"app_version": "2.40.183", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.183.zip", "schema_version": 6, "notes": "Вакцинація: дата «діє з» — на кожен крок; слово vacc_soon — кому скоро.", "created": "2026-10-01"}
