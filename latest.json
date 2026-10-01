@@ -1,1 +1,1 @@
-{"app_version": "2.40.174", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.174.zip", "schema_version": 6, "notes": "«Здоров’я»: схеми вакцинації перетягуються; таблиця кроків щільна, без розривів.", "created": "2026-10-01"}
+{"app_version": "2.40.175", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.175.zip", "schema_version": 6, "notes": "«Здоров’я»: у кроку вакцинації — поле «Ремарка»; список із vacc показує її в «Примітці».", "created": "2026-10-01"}
