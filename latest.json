@@ -1,1 +1,1 @@
-{"app_version": "2.40.207", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.207.zip", "schema_version": 6, "notes": "Друк списку вакцинації: угорі — препарат, мл і кількість доз.", "created": "2026-10-01"}
+{"app_version": "2.40.208", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.208.zip", "schema_version": 6, "notes": "Друк списку вакцинації: препарат — мл · доз і загальна сума.", "created": "2026-10-01"}
