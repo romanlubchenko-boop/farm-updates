@@ -1,1 +1,1 @@
-{"app_version": "2.40.167", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.167.zip", "schema_version": 6, "notes": "«Здоров’я»: налаштування схеми вакцинації одним рядком.", "created": "2026-10-01"}
+{"app_version": "2.40.168", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.168.zip", "schema_version": 6, "notes": "Списки «Роботи зі стадом»: слово vacc — кому вакцинація зараз за схемами «Здоров’я» (FILTER(vacc=[Хіпра 1])).", "created": "2026-10-01"}
