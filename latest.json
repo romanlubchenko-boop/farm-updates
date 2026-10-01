@@ -1,1 +1,1 @@
-{"app_version": "2.40.193", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.193.zip", "schema_version": 6, "notes": "Схема вакцинації: ремарка, дні й формула кроку — у рамках.", "created": "2026-10-01"}
+{"app_version": "2.40.194", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.194.zip", "schema_version": 6, "notes": "Списки з вакцинацією більше не гальмують: підрахунок у ~80 разів швидший.", "created": "2026-10-01"}
