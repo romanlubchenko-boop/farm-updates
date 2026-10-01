@@ -1,1 +1,1 @@
-{"app_version": "2.40.191", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.191.zip", "schema_version": 6, "notes": "Ремарка кроку вакцинації: номер — число з кінця назви кроку.", "created": "2026-10-01"}
+{"app_version": "2.40.192", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.192.zip", "schema_version": 6, "notes": "Схема вакцинації: позначка біля кроку — є він у списках чи немає.", "created": "2026-10-01"}
