@@ -1,1 +1,1 @@
-{"app_version": "2.40.198", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.198.zip", "schema_version": 6, "notes": "Стежка під шапкою: 10 останніх місць, ліворуч найраніше, клік повертає туди.", "created": "2026-10-01"}
+{"app_version": "2.40.199", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.199.zip", "schema_version": 6, "notes": "Стежка: поточна сторінка зліва, рядок лишається вгорі під час прокрутки; шапка нижча.", "created": "2026-10-01"}
