@@ -1,1 +1,1 @@
-{"app_version": "2.40.172", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.172.zip", "schema_version": 6, "notes": "«Здоров’я»: кожен крок схеми вакцинації — активний або неактивний окремо.", "created": "2026-10-01"}
+{"app_version": "2.40.173", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.173.zip", "schema_version": 6, "notes": "«Здоров’я»: крок вакцинації задається лише рядком формули (FILTER), кроки перетягуються вгору-вниз.", "created": "2026-10-01"}
