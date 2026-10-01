@@ -1,1 +1,1 @@
-{"app_version": "2.40.189", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.189.zip", "schema_version": 6, "notes": "Схема вакцинації: ремарка кроку складається сама — «1 · препарат · доза».", "created": "2026-10-01"}
+{"app_version": "2.40.190", "url": "https://raw.githubusercontent.com/romanlubchenko-boop/farm-updates/main/releases/farm_update_2.40.190.zip", "schema_version": 6, "notes": "«Здоров’я»: у меню кроку — «Перенести в списки» (зараз, скоро, прострочені).", "created": "2026-10-01"}
