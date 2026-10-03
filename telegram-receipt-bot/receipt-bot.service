@@ -1,0 +1,15 @@
+[Unit]
+Description=Telegram receipt recognition bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=bot
+WorkingDirectory=/opt/receipt-bot
+ExecStart=/opt/receipt-bot/venv/bin/python bot.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
